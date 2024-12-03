@@ -1,8 +1,21 @@
-# React + Vite
+# Zentry Landing Page Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and visually captivating clone of the Zentry landing page. This project replicates the design and functionality of the original Zentry site, offering a seamless user experience with responsive layouts and dynamic elements.
 
-Currently, two official plugins are available:
+![Zentry Landing Page](./public/img/zentry.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Responsive Design:** Fully adaptable for all screen sizes and devices.
+- **Dynamic Animations:** Engaging visuals powered by TailwindCSS and JavaScript.
+- **Interactive Components:** Includes buttons, hover effects, and other interactive elements.
+- **Reusable Components:** Modular and easy-to-maintain structure for scalability.
+
+## Tech Stack
+- **React**: Component-based architecture for building the UI.
+- **TailwindCSS**: Utility-first CSS framework for styling.
+- **Vercel**: Deployment platform for hosting.
+
+## Installation and Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/zentry-landing-page-clone.git
