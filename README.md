@@ -4,6 +4,10 @@ A modern and visually captivating clone of the Zentry landing page. This project
 
 ![Zentry Landing Page](./public/img/zentry.png)
 
+## Live Demo
+
+You can access the live application here: (https://zentry-landingpage-clone.vercel.app/)
+
 ## Features
 - **Responsive Design:** Fully adaptable for all screen sizes and devices.
 - **Dynamic Animations:** Engaging visuals powered by TailwindCSS and JavaScript.
