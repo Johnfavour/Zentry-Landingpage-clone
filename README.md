@@ -6,7 +6,7 @@ A modern and visually captivating clone of the Zentry landing page. This project
 
 ## Live Demo
 
-You can access the live application here: (https://zentry-landingpage-clone.vercel.app/)
+You can access the live application here: (https://zentry-landingpage-clone-johnfavours-projects.vercel.app/)
 
 ## Features
 - **Responsive Design:** Fully adaptable for all screen sizes and devices.
